@@ -13,7 +13,7 @@
 | | BookCorpus| BookCorpus | Common Crawl
 | | | Common Crawl news dataset | WebText2
 | | | OpenWebText | Books1
-| | | Common Crwal stories| Books
+| | | Common Crwal stories| Books2
 
 
 ## Transfer Learning
